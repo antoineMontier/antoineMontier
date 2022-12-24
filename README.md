@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoineMontier
 - 👀 I’m interested in java, c and python
-- 🌱 I’m currently learning java, c, python and haskell
+- 🌱 I’m currently learning java, c, python and c++
 - 📫 you can write me at antoine.montier@sfr.fr ; i'm interested in collaboration
 
 <!---
