@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, c, python and c++
 - 📫 you can write me at antoine.montier@sfr.fr ; i'm interested in collaboration
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineMontier)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineMontier)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
 
 
 <!---
