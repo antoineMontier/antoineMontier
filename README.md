@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @antoineMontier
-- 👀 I’m interested in c, c++ and python
-- 🌱 I’m currently learning java, c, python and c++
-- 📫 you can write me at antoine.montier@sfr.fr ; i'm interested in any type of collaboration
+Cybersecurity student
+
+Currently studying cybersecurity at Unicaen & EnsiCaen, in France
+
+---
+
+Interested in IoT, system & web security, biometrics.
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineMontier)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
 
